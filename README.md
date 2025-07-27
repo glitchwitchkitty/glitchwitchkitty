@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🧬+GlitchKitty%E2%84%A2+%E2%80%A2+Welcome+to+My+Code+Ritual+🦾" alt="Glitch Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=GlitchKitty%E2%84%A2+%E2%80%A2+Welcome+to+My+Code+Ritual" alt="Glitch Banner"/>
+
 
 # 💫 About Me:
 
