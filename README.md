@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=8F00FF&center=true&vCenter=true&width=800&height=100&lines=GlitchKitty%E2%84%A2+Initiated;System+Check+In+Progress;Welcome+to+the+Code+Ritual+(=^w^=)" alt="Glitch Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=8F00FF&center=true&vCenter=true&width=800&height=100&lines=GlitchKitty%E2%84%A2+Initiated;System+Check+In+Progress;Welcome+to+my+Code+Ritual+(=^.w.^=)(" alt="Glitch Banner"/>
 
 
 
