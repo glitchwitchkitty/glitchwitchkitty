@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=GlitchKitty%E2%84%A2+%E2%80%A2+Welcome+to+My+Code+Ritual" alt="Glitch Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=8F00FF&center=true&vCenter=true&width=800&height=100&lines=GlitchKitty%E2%84%A2+Initiated;System+Check+In+Progress;Welcome+to+the+Code+Ritual+(=^w^=)" alt="Glitch Banner"/>
+
 
 
 # 💫 About Me:
@@ -71,5 +72,5 @@ This README is a living spell. Expect updates, glitches, and whispers from the v
 </div>
 
 <!-- =^w^= -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
